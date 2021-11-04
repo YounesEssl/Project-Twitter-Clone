@@ -622,8 +622,8 @@ input::placeholder {
     #asidecontainer {
         width: 40%;
     }
-    main, #homebar{
-        width: 50%;
+    main, #homebar {
+        width:47%;
     }
     ul > li > a {
         margin-right:0px;
