@@ -276,6 +276,16 @@ strong:hover {
     padding:3px;
     margin-right:5px;
 }
+.retweet:hover .retweet2{
+    color:yellowgreen;
+}
+.comment:hover .comment2 {
+    color:lightseagreen;
+}
+.share:hover {
+    color:rgb(26,154,238);
+}
+
 .redlike {
     color:rgb(229,57,127);
 }
