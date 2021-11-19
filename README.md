@@ -1,8 +1,29 @@
 # Clone Twitter's Home Page
 
-<p align="left">Vous êtes actuellement sur le Readme du clone de la page d'accueil de twitter que j'ai fait de A à Z en HTML5 et CSS3. Le but de ce projet était d'en apprendre plus sur le responsive et des propriétées HTML5 / CSS3. L'une des plus grandes difficultés que j'ai rencontré en tant que jeune développeur Front-end a été la structuration de mon code. Comme vous pouvez le remarquer Twitter est fait d'une manière verticale ce qui n'est pas commun pour un site web. Une des autres difficultés rencontrées a été les media queries pour la responsive en raison de sa nouveauté dans mon apprentissage.
+You are currently on the Readme of the twitter homepage clone that I made in HTML5 and CSS3. The goal of this project was to learn more about responsive and **HTML5 / CSS3** properties. One of the biggest difficulties I faced as a young front-end developer was structuring my code. As you can see Twitter is made in a vertical way which is not common for a website. One of the other difficulties I encountered was media queries for responsive due to its newness in my learning.
+
+<a href="https://zupimages.net/viewer.php?id=21/46/edzx.png"><img src="https://zupimages.net/up/21/46/edzx.png" alt="" /></a>
+
+# How to Install
+<p> To install this project is very simple, you just have to download in ".zip" the project on the github page of this one and to launch the index.html with your internet browser.
 </p>
-<img src="https://imgur.com/a/RTMRRN5" alt="homepage" />
+
+# How to use it
+
+<p> To use this page, you can test the different features and compare them with the real Twitter. You can for example try the search bar, the responsive and the hovers and many other small features that make the charm of this clone. </p>
+
+# Contributors
+
+<p> I did this project alone from A to Z however this Readme file was done in collaboration with Anthime Bayani. </p>
+
+# License
+<p> Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+</p>
+# How to Contribute to the Project
+
+<p>You can contribute to this project if you have knowledge in HTML5 and CSS3, all improvements are good to take, maybe we will manage one day to recreate twitter entirely who knows ?</p>
 
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
